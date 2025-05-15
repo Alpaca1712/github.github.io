@@ -1,0 +1,15 @@
+title: My Jekyll Site
+description: A simple Jekyll site with a subdomain route
+baseurl: ""
+url: "https://github.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+github:
+  repository: github/github.github.io 
